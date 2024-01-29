@@ -1,0 +1,20 @@
+.container{
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+.mytable{
+    border: 1px solid #111;
+    width: 100%;
+    font-size: 18px;
+    border-collapse: collapse;
+}
+.mytable th, .mytable td{
+    border: 1px solid #111;
+    padding: 12px;
+}
